@@ -1,0 +1,4 @@
+class AirlinesController < ApplicationController
+
+ 
+end
